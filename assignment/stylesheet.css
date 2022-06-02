@@ -6,3 +6,6 @@ header {
 main {
     background-color: lightgrey;
 }
+body {
+    background-image: url("record.png");
+}
