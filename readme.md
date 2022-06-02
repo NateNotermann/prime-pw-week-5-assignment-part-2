@@ -16,21 +16,31 @@ Add all CSS through a Stylesheet. Do not use inline styles.
 Update the HTML:
 
 - Place the existing `h1` inside a `header` element. 
+<!--done-->
 - Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`.
+<!--done-->
 - Place the existing `p` inside a `main` element.
-
+<!--done-->
+<!--done-->
 Add a Stylesheet:
 
 - Create a `stylesheet.css` file and source it into the HTML file.
-- Give the `header` a dark background color and choose a light  color for the text.
+<!--done-->
+- Give the `header` a dark background color and choose a light  color for the text.<!--done-->
+<!--done-->
 - Center the text in the `header`.
+<!--done-->
 - Give the `main` a light grey background color.
+<!--done-->
 - Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
+<!--done-->
 - Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
-- Look up CSS `margin` and `padding`. 
+<!--done-->
+- Look up CSS `margin` and `padding`.  
   - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
+  <!--done-->
   - Give the `main` padding of `1em`. (Curious about `em`? Look up CSS units.)
-
+  <!--done-->
 Here's an example of what the style could look like:
 <img src="./example.png">
 
